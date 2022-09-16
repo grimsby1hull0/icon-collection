@@ -33,6 +33,10 @@ th, td {
     padding: 10px;
 }
 
+#favs {
+    margin-right: 10px;
+    background-color: coral;
+}
 
 
 .ascii {

@@ -30,7 +30,7 @@ td:nth-child(odd), th:nth-child(odd) {
   }
 
 th, td {
-    padding: 10px;
+    padding: 4px;
 }
 
 #favs {
